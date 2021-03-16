@@ -23,3 +23,14 @@ ZCZC W01 45  L15 Assignment #5
 ZCZC W01 15  L16 Assignment #6
 ZCZC W01 40  L17 Assignment #7
 ZCZC W01 40  L18 Assignment #8
+ZCZC W02 25  L11 Assignment #1: Read Slide
+ZCZC W02 40  L12 Assignment #2: C Program
+ZCZC W02 23  L13 Assignment #3: Generat GnuPG Key Pair
+ZCZC W02 15  L14 Assignment #4: Import public key
+ZCZC W02 15  L15 Assignment #5: Export Public Key
+ZCZC W02 40  L16 Assignment #6: Top 3 of 10 next closest neighbors
+ZCZC W02 10  L18 Assignment #8: Copy bash script
+ZCZC W02 10  L19 Assignment #9: Update mylog.txt
+ZCZC W02 100 L17 Assignment #7: Top 10 List of Week 02
+ZCZC W02 30  L05 GSGS: GnuPG and how it works
+ZCZC W00 20  L03 GitHub related
