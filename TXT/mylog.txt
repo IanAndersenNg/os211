@@ -44,9 +44,16 @@ ZCZC W03 60  L17 Assignment #7 : Tarball
 ZCZC W03 30  L18 Assignment #8 : Update bash script
 ZCZC W03 10  L19 Assignment #9 : Make SHA256SUM and sign it
 ZCZC W04 120 L02 ZOOM Meeting
-ZCZC W04 40 L13 Assignment #3 Review Last Week TOP 10 List
+ZCZC W04 40  L13 Assignment #3 Review Last Week TOP 10 List
 ZCZC W04 120 L14 Assignment #4 TOP 10 List
-ZCZC W04 15 L15 Assignment #5 Update mylog.txt
-ZCZC W04 80 L16 Assignment #6 myW04.tar.bz2.asc
-ZCZC W04 15 L17 Assignment #7 Bash Script
-ZCZC W04 15 L18 Assignment #8 Make SHA256SUM and sign it
+ZCZC W04 15  L15 Assignment #5 Update mylog.txt
+ZCZC W04 80  L16 Assignment #6 myW04.tar.bz2.asc
+ZCZC W04 15  L17 Assignment #7 Bash Script
+ZCZC W04 15  L18 Assignment #8 Make SHA256SUM and sign it
+ZCZC W05 60  L11 Assignment #1 : Mencoba Demo
+ZCZC W05 30  L12 Assignment #2 : Top 3 of neighbor
+ZCZC W05 120 L13 Assignment #3 : Top 10 of this week 
+ZCZC W05 120 L14 Assignment #4 : tarball
+ZCZC W05 15  L15 Assignment #5 : log
+ZCZC W05 10  L16 Assignment #6
+ZCZC W05 120 L02 Zoom Meeting
