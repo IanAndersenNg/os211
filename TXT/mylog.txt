@@ -57,3 +57,13 @@ ZCZC W05 120 L14 Assignment #4 : tarball
 ZCZC W05 15  L15 Assignment #5 : log
 ZCZC W05 10  L16 Assignment #6
 ZCZC W05 120 L02 Zoom Meeting
+ZCZC W06 60  L11 Assignment #1
+ZCZC W06 30  L12 Assignment #2
+ZCZC W06 120 L13 Assignment #3
+ZCZC W06 120 L14 Assignment #4
+ZCZC W06 15  L15 Assignment #5
+ZCZC W06 10  L16 Assignment #6
+ZCZC W06 120 L02 Zoom Meeting
+ZCZC W06 30  L05 GSGS related for pop quiz 21/04
+ZCZC W06 5   L23 Discord: Read discussion and check announcement
+ZCZC W06 5   L01 SCELE related: check announcements
