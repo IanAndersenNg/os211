@@ -83,4 +83,11 @@ ZCZC W08 200 L13 Assignment #3: Linux From Scratch Chapter 1-4
 ZCZC W08 5   L14 Assignment #4: tarball
 ZCZC W08 14  L15 Assignment #5: Update my log
 ZCZC W08 7   L16 Assignment #6: SHA256SUM and sign
-ZCZC W08 30  L05 GSGS related: Popquiz 6 Mei 2021  
+ZCZC W08 30  L05 GSGS related: Popquiz 6 Mei 2021
+ZCZC W09 100 L02 ZOOM related
+ZCZC W09 120 L13 Assignment #3 : doing top 10 list
+ZCZC W09 20 L05 GSGS related
+ZCZC W09 120 L13 Assignment #3 : doing chapter 5
+ZCZC W09 120 L13 Assignment #3 : doing chapter 6
+ZCZC W09 125 L13 Assignment #3 : doing chapter 7
+ZCZC W09 15 L05 GSGS related  
