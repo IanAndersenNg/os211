@@ -20,6 +20,3 @@ ZCZC W06 irfancen
 ZCZC W07 johanesimarmata
 ZCZC W07 jsaonn
 ZCZC W07 irfancen
-ZCZC W08 johanesimarmata
-ZCZC W08 jsaonn
-ZCZC W08 irfancen
